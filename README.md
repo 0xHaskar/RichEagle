@@ -8,7 +8,8 @@ By downloading the program, you agree that all actions are on your responsibilit
 You agree with everything written on this page!
 
 ### Install:
+```bash
 pip3 install PyInquirer jinja2 bs4
-
+```
 ### Tested for:
 Kali Linux
