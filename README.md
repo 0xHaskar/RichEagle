@@ -1,5 +1,5 @@
 
-[!(https://github.com/0xHaskar/RichEagle/blob/main/icons/rich.png)]
+[! [RichEagle](https://github.com/0xHaskar/RichEagle/blob/main/icons/rich.png)]
 
 Warning
 
