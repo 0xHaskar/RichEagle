@@ -28,6 +28,6 @@ print('\033[39m') # delete color
 #========================================
 if select == "1":
     dir = os.getcwd()
-    os.chdir(dir + "/modules/Profil3r-docker/")
+    os.chdir(dir + "/Profil3r-docker/")
     os.system("clear")
     os.system("python3 start.py")
