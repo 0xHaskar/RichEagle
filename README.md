@@ -12,6 +12,7 @@ You agree with everything written on this page!
 ### Install:
 ```bash
 pip3 install PyInquirer jinja2 bs4
+sudo apt install docker.io
 ```
 ### Tested for:
 Kali Linux
