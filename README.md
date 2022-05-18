@@ -8,8 +8,10 @@ By downloading the program, you agree that all actions are on your responsibilit
 You agree with everything written on this page!
 
 ### Updates:
+```bash
 [+] Profil3r
 [+] Scanner AWVS
+```
 
 ### Install:
 ```bash
