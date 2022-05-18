@@ -19,4 +19,6 @@ pip3 install PyInquirer jinja2 bs4
 sudo apt install docker.io
 ```
 ### Tested for:
+```bash
 Kali Linux
+```
