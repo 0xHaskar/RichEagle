@@ -7,7 +7,9 @@ The software is presented for informational purposes only and is intended for re
 By downloading the program, you agree that all actions are on your responsibility and conscience!
 You agree with everything written on this page!
 
-### Updates
+### Updates:
+[+] Profil3r
+[+] Scanner AWVS
 
 ### Install:
 ```bash
