@@ -9,7 +9,6 @@ You agree with everything written on this page!
 
 ### Updates:
 ```bash
-[+] Profil3r
 [+] Scanner AWVS
 ```
 
