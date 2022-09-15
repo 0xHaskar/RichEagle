@@ -15,8 +15,11 @@ You agree with everything written on this page!
 
 ### Install:
 ```bash
-pip3 install PyInquirer jinja2 bs4
 sudo apt install docker.io
+```
+### Start:
+```bash
+sudo python3 RichEagle.py 
 ```
 ### Tested for:
 ```bash
