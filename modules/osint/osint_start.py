@@ -21,13 +21,9 @@ class color:
 print(color.BOLD + color.BLUE + "========================================")
 print(color.BOLD + color.BLUE + "𝙊𝙎𝙄𝙉𝙏")
 print(color.BOLD + color.BLUE + "========================================")
-print(color.BOLD + color.BLUE + "1. profil3r | ✅")
+print(color.BOLD + color.BLUE + "1.  | ✅")
 #==================================
 select = input(color.BOLD + color.GREEN + "Select: ")
 print('\033[39m') # delete color
 #========================================
-if select == "1":
-    dir = os.getcwd()
-    os.chdir(dir + "/Profil3r-docker/")
-    os.system("clear")
-    os.system("python3 start.py")
+
